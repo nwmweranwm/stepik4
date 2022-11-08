@@ -16,4 +16,4 @@ def min_max(list):
     return result
 
 print(min_max([6, 8, 78, 2]))
-#ok
+#okk
